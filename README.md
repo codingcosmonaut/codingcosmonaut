@@ -2,12 +2,6 @@
 
 ### I'm a Machine Learning Engineer
 
-- 🌱 I’m currently learning how to start a [YT channel][youtube] 
-- 👯 I’m planning to participate in Hackoberfest and stream it over [Twitch][twitch]
-- 🥅 By the end of 2020: I want to reach 300 subscribers
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="codingcosmonaut.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
